@@ -31,3 +31,12 @@ Installing package husky. It allow us to add hooks on git, so I can run a custom
 ```shell
 $ npm i husky -D
 ```
+
+# Testing
+
+Installing package jest. This is the Javascript Testing Framework that we'll use on this application.
+
+```shell
+$ npm i jest -D
+$ npx jest --init
+```
