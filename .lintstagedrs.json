@@ -1,3 +1,5 @@
 {
-  "*.js": ["standard --fix", "git add"]
+  "hooks": {
+    "pre-commit": "lint-staged"
+  }
 }
