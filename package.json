@@ -4,7 +4,7 @@
     "description": "come on... read the name of the project buddy",
     "main": "index.js",
     "scripts": {
-        "test": "jest",
+        "test": "jest --watchAll",
         "testStaged": "jest"
     },
     "standard": {
